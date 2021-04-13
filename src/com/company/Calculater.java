@@ -22,6 +22,7 @@ class Calculater {
         public static double divid(double a, double b) {
             count++;
             return a / b + a % b;
+
         }
         public static void counter(){
             System.out.println(count);
