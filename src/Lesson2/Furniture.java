@@ -42,6 +42,7 @@ public class Furniture {
     }
 }
 
+
 class Table extends Furniture {
 
     int weight;
