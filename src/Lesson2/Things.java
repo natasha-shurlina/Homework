@@ -1,6 +1,7 @@
 package Lesson2;
 //задача 1
 
+
 public class Things {
 
     int price;
